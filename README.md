@@ -4,9 +4,9 @@ A custom architure was used first then a pretrained one (vgg16) and performance 
 
 
 ## Requirements
-tensorflow
-opencv-python
-fastAPI
+- tensorflow
+- opencv-python
+- fastAPI
 
 ## API Testing
 run > uvicorn main:app --reload
